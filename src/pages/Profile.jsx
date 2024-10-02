@@ -17,9 +17,9 @@ const Profile = () => {
           <div className="content">
             <div className="hero-main">
               <div className="hero-text">
-                <h1>Full-Stack React Developer</h1>
+                <h1>Full-Stack MERN Developer</h1>
                 <img src={waveHand} alt="waving_hand" className="shaking-hand" />
-                <p>Hi, I'm Aniruddha Kulkarni. A passionate Full-Stack React Developer based in Pune, India 🇮🇳. 📍</p>
+                <p>Hi, I'm Aniruddha Kulkarni. A passionate Full-Stack MERN Developer based in Pune, India 🇮🇳. 📍</p>
                 <span>
                   <a aria-label="linkedin" rel="noreferrer" target="_blank" href={linkedin}>
                     <svg
